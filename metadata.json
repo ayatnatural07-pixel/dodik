@@ -1,0 +1,8 @@
+{
+  "name": "NebulaOS",
+  "description": "A next-generation web-based operating system simulation featuring window management, a fully functional AI assistant powered by Gemini, and multimedia capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
